@@ -1,80 +1,99 @@
-# 🌟 Amarendrah | Frontend Developer | DevOps | UI/UX Developer | SEO Expert
-
-## 👋 Hello! I’m **Amarendrah** – A Web Developer with 4+ Years of Experience
-
-I specialize in **Frontend Development**, **DevOps**, and **UI/UX Design**, and I’m passionate about building user-friendly and responsive websites. Currently, I’m working with a digital marketing agency where I focus on creating innovative websites and maintaining them to deliver exceptional results.
-
-- 💼 **Role**: Web Developer at a leading Digital Marketing Agency
-- 🎓 **Education**: B.Tech in Computer Science
-- 🏆 **Experience**: 4+ years of experience in building and maintaining high-performance websites
-
-👉 Check out my portfolio at: [amarendrah.com](https://amarendrah.com)
+# 🌟 **Amarendrah**  
+*Frontend Developer | DevOps | UI/UX Developer | SEO Expert*  
 
 ---
 
-## 🧑‍💻 Skills & Technologies
+## 👋 **Hello! I’m Amarendrah**  
+### **A passionate web developer with 4+ years of experience**  
 
-Here are the tools and technologies I work with to create seamless and impactful web experiences:
+I specialize in **Frontend Development**, **DevOps**, **UI/UX Design**, and **SEO Optimization**. I help businesses grow by building stunning and responsive websites that deliver high performance and great user experiences.
 
-### 🔧 **Frontend Development**
-- **HTML5**, **CSS3**, **Bootstrap**, **Tailwind CSS**, **SASS**
-- **JavaScript (ES6)**, **React**, **Next.js**, **Remix**, **Redux**
-- **Material UI**, **Figma**, **Responsive Web Design**
-
-### 🚀 **Backend & DevOps**
-- **Node.js**, **Express**, **MongoDB**
-- **AWS**, **Azure**, **Firebase**, **cPanel**
-- **CI/CD**, **Docker**, **Nginx**
-
-### 🔍 **SEO & Marketing**
-- **SEO Optimization**, **Google Analytics**, **Google Search Console**
-- **WordPress**, **Shopify**, **Content Management Systems**
-
-### ⚙️ **Other Tools**
-- **Git/GitHub**, **JIRA**, **Trello**
-- **Linux**, **Vim**, **Postman**, **Slack**
+- 🎓 **B.Tech in Computer Science**  
+- 💼 **Currently working at a digital marketing agency as a web developer**  
+- 🛠 **Proficient in modern tools and technologies like React, Next.js, Node.js, AWS, and more**  
+- 🌐 **Check out my portfolio**: [amarendrah.com](https://amarendrah.com)
 
 ---
 
-## 📂 Featured Projects
+## 🧑‍💻 **Skills & Technologies**  
+> These are the tools and technologies I use to build high-quality web applications and websites.
 
-### 🌐 [Arabian Media - Marketing Agency](https://arabianmedia.ae) (Live Site)
-A dynamic **marketing agency website** built with **Next.js**, **React**, **HTML**, **CSS**, and **Bootstrap**. This project showcases the services of the agency and helps attract clients through a user-friendly interface and optimized performance.
+### **Frontend Development**  
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://img.icons8.com/ios/452/html-5.png" width="50" title="HTML5"/>
+  <img src="https://img.icons8.com/ios/452/css3.png" width="50" title="CSS3"/>
+  <img src="https://img.icons8.com/ios/452/bootstrap.png" width="50" title="Bootstrap"/>
+  <img src="https://img.icons8.com/ios/452/tailwindcss.png" width="50" title="Tailwind CSS"/>
+  <img src="https://img.icons8.com/ios/452/sass.png" width="50" title="SASS"/>
+  <img src="https://img.icons8.com/ios/452/javascript.png" width="50" title="JavaScript"/>
+  <img src="https://img.icons8.com/ios/452/react.png" width="50" title="React"/>
+  <img src="https://img.icons8.com/ios/452/nextjs.png" width="50" title="Next.js"/>
+  <img src="https://img.icons8.com/ios/452/remix.png" width="50" title="Remix"/>
+  <img src="https://img.icons8.com/ios/452/redux.png" width="50" title="Redux"/>
+  <img src="https://img.icons8.com/ios/452/material-ui.png" width="50" title="Material UI"/>
+</div>
 
-- **Key Features**:
-  - Fully **responsive design** optimized for all screen sizes
-  - Integrated with **Google Analytics** for SEO and user insights
-  - Dynamic content loaded with **Next.js** for fast performance
-  - SEO-friendly URLs and metadata for better search rankings
+### **Backend & DevOps**  
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://img.icons8.com/ios/452/nodejs.png" width="50" title="Node.js"/>
+  <img src="https://img.icons8.com/ios/452/express-js.png" width="50" title="Express.js"/>
+  <img src="https://img.icons8.com/ios/452/mongodb.png" width="50" title="MongoDB"/>
+  <img src="https://img.icons8.com/ios/452/aws.png" width="50" title="AWS"/>
+  <img src="https://img.icons8.com/ios/452/azure.png" width="50" title="Azure"/>
+  <img src="https://img.icons8.com/ios/452/firebase.png" width="50" title="Firebase"/>
+  <img src="https://img.icons8.com/ios/452/cpanel.png" width="50" title="cPanel"/>
+</div>
 
-- **Technologies Used**:
-  - **Next.js**, **React**, **HTML**, **Bootstrap**, **CSS**, **JavaScript**, **jQuery**
+### **SEO & Marketing**  
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="https://img.icons8.com/ios/452/google-analytics.png" width="50" title="Google Analytics"/>
+  <img src="https://img.icons8.com/ios/452/google-search-console.png" width="50" title="Google Search Console"/>
+  <img src="https://img.icons8.com/ios/452/wordpress.png" width="50" title="WordPress"/>
+  <img src="https://img.icons8.com/ios/452/shopify.png" width="50" title="Shopify"/>
+</div>
 
 ---
 
-### 🌐 [Project 2 Name] (Add the link later)
-This project is another website that demonstrates my skills in **React**, **SEO Optimization**, and **UI/UX Design**. It's designed to provide a seamless user experience with the best practices of modern web development.
+## 📂 **Featured Projects**  
+> Check out some of my recent work:
 
-- **Key Features**:
-  - **Interactive user interface** built with **React**
-  - **SEO optimization** to ensure better visibility on search engines
-  - Integration with **Google Cloud** for hosting
+### 1. **[Arabian Media - Marketing Agency](https://arabianmedia.ae)**
+A dynamic **marketing agency website** built with **Next.js**, **React**, **HTML**, and **CSS**. The site is designed for fast performance and optimized for SEO, ensuring the best user experience and high rankings in search engines.
 
-- **Technologies Used**:
-  - **React**, **Next.js**, **CSS**, **JavaScript**, **Firebase**
+- 🚀 **Key Features**:  
+  - Fully **responsive** design, optimized for all screen sizes  
+  - Fast loading with **Next.js** and server-side rendering  
+  - SEO-friendly structure with proper metadata and keywords  
+  - Integrated with **Google Analytics** for performance insights
 
----
-
-## 🚀 Why Choose Me?
-
-- 🔹 **Experienced & Versatile**: With 4+ years of professional experience, I bring a wealth of knowledge in **Frontend Development**, **DevOps**, and **SEO**.
-- 🔹 **Optimized Websites**: I build websites that not only look good but also perform well, thanks to a strong foundation in **SEO** and **performance optimization**.
-- 🔹 **Responsive & Mobile-First**: I make sure every website I work on is responsive, optimized, and user-friendly across all devices.
-- 🔹 **Freelance Available**: I'm available for freelance opportunities. Let's collaborate to build something amazing!
+- 🔧 **Technologies Used**:  
+  **Next.js**, **React**, **HTML**, **CSS**, **JavaScript**, **Bootstrap**, **jQuery**
 
 ---
 
-## 📧 Let's Connect
+### 2. **[Project 2 Name](#)**  
+This project is designed with **React** and **Next.js**, with a focus on **SEO** optimization and **UI/UX** design.
+
+- 🚀 **Key Features**:  
+  - Interactive **React** components for user engagement  
+  - Optimized for **mobile-first design**  
+  - Built for **high performance** and speed
+
+- 🔧 **Technologies Used**:  
+  **React**, **Next.js**, **JavaScript**, **Firebase**
+
+---
+
+## 🚀 **Why Work With Me?**
+
+- **Experienced Developer**: 4+ years of hands-on experience working with leading technologies and frameworks like **Next.js**, **React**, and **Node.js**.
+- **Optimized Performance**: I build websites with **SEO** and **performance optimization** at the core to ensure higher search engine rankings and a smooth user experience.
+- **Tailored Solutions**: Whether you're looking for a **frontend developer**, **UI/UX designer**, or a **DevOps engineer**, I provide tailored solutions that meet your unique business needs.
+- **Freelancer Ready**: Open for **freelance** opportunities. Let’s collaborate and build something amazing!
+
+---
+
+## 📧 **Let’s Connect!**
 
 Feel free to reach out to me via the following platforms:
 
@@ -85,30 +104,15 @@ Feel free to reach out to me via the following platforms:
 
 ---
 
-## 🎯 Additional Information
+## 🌐 **Website & GitHub Stats**  
+Check out my personal portfolio: [amarendrah.com](https://amarendrah.com)
 
-- 🖥️ **Personal Website**: [amarendrah.com](https://amarendrah.com) – Check out my portfolio and other projects!
-- 🧑‍💻 **GitHub Stats**: ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=amarendrah&show_icons=true&count_private=true&hide_title=true)
-
----
-
-### 💡 Thanks for visiting my profile! 
-
-I'm always excited to connect with other professionals, potential collaborators, or anyone looking to build amazing digital experiences. Feel free to reach out to me for freelance work or any web-related inquiries!
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amarendrah&show_icons=true&count_private=true&hide_title=true)
 
 ---
 
-<!--
-**amarendrah/amarendrah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💡 **Thank You for Visiting My Profile!**  
+I’m always excited to connect with professionals, collaborators, or anyone interested in working on exciting web development projects. Reach out to me for freelance work or any inquiries related to **web development**, **SEO**, and **UI/UX**!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
