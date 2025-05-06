@@ -59,13 +59,6 @@ I'm a passionate Senior React & Next.js Developer with 3+ years of experience in
 - **SEO & Marketing**: Driving organic traffic and engagement
 - **Performance Optimization**: Ensuring fast-loading, efficient websites
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amarendrah&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amarendrah&theme=radical" alt="GitHub Streak" />
-</div>
-
 ## 🌟 Featured Projects
 
 - **HOFT Technology**: Technology Services Platform
